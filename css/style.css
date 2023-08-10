@@ -1,0 +1,19 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: lightblue;
+	text-align: center;
+	color: tomato;
+}
+.box{
+	padding: 35px;
+	margin: 10px 0;
+	height: 100px;
+	background-color: lightcyan;
+	text-align: center;
+}
+
+.red{
+	background-color: lightpink;
+}
+.extra{
+	background-color: lightcoral;
+}
